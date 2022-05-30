@@ -1,0 +1,80 @@
+#madLibsApp 2nd of 4 website pages to Order a Flower,Online Florist Shop Name: Floristmart, Listen to Muisic while you fill-in to process your order #
+<head> <title>Affordable Flowers Online | Free Shipping Anywhere Anytime |Floristmart Webshop</title>
+<hr> FloristMart | Order | Delivery </hr>
+<body>
+<script>
+<meta data-react-helmet="true" name="description" content="FloristMart offers Flowers and Flower combos at affordable with our partners.
+Choose amazing flowers for your loved ones from the largest collection of Flowers to celebrate their special days.
+We deliver round the clock,round the year,round the globe">
+</script>
+<link rel="canonical"href="https://www.floristmart.com/flowers">
+<link rel="next" href="https://www.floristmart.com/flowers?page=2">
+<link rel="preload" as="image" href="https://imgIntercore.floristmart.com/fa-banners/listing-page-banner.jpg"><meta charset="utf-8">
+<link rel="shortcut icon" href="https://imgIntercore.floristmart.com/fevicon_new.ico">
+<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name="theme-color" content="#000000"><meta name="google-site-verification" content="DHAVAYeNhCkWA65XSxaCf3FvJS5PmIcYOjNCElpvV70">
+<link rel="manifest" href="https://imgIntercore.floristmart.com/ssr-build/manifest.json">
+<style data-href="/static/css/59.8287ba58.chunk.css">.slide-pane n,.header_right_r .side_option,.header_right_r a{margin-right:5px,}
+</style>
+<--link rel="preconnect" href="https://assetsIntercore.floristmart.com>
+<!winjs references -->
+<link href="//Microsoft WinJS.1.0./css/ui-dark.css" rel="stylesheet"/>
+<script src="//Microsoft WinJS.1.0./js/base.js">    </script>
+<script src="//Microsoft WinJS.1.0./js/base.js">    </script>
+<script href="https://www.floristmart.com/flowers"> </script>
+
+<section style=Margin-left:75px; margin-top:15px;"> 
+<h2> Please fill-in to process your order for delivery</h2>
+<h2>HTML Forms</h2>
+           <form action="/action_page.js">
+  <label for="fname">First name of the Customer:</label><br>
+  <input type="text" id="fname" name="fname" value="Philemon"><br><br>
+  <label for="lname">Last name of the Customer:</label><br>
+  <input type="text" id="lname" name="lname" value="Kuruvilla"><br><br>
+  <label for="Emailid">Emailid of the Customer:</label><br>
+  <input type="="email" required placeholder= "you@domain.com"/><br><br>
+  <label for="fname">Name of the Flower Chosen:</label><br>
+  <input type="text" id="fname" name="fname" value=" "><br><br>
+  <label for="lname">Product id of the Flower:</label><br>
+  <input type="text" id="lname" name="lname" value="  "><br><br>
+  <label for="fname">No. of Flowers Required:</label><br>
+  <input type="text" id="fname" name="fname" value="  "><br><br>
+  <label for="lname">Address for delivery:</label><br>
+  <input type="text" id="lname" name="lname" value="  "><br><br>
+  <label for="lname">Street Name:</label><br>
+  <input type="text" id="Street" name="Street" value="  "><br><br>
+  <label for="lname">Name of the City :</label><br>
+  <input type="text" id="City" name="City" value="  "><br><br>
+  <label for="lname">Zip/Pin Code :</label><br>
+  <input type="text" id="Zip Code" name="Zip Code" value="  "><br><br>
+  <label for="Phone no.">Phone no :</label><br>
+  <input type="text" id="Phone no" Pattern="\dd\dd\dd\dd-dd\dd\dd\dd\dd" value="  "><br><br>
+  <input type="submit" value="Submit">
+</form> 
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/order_page.js".</p>
+</section>
+
+<h2> Listen to music while we process your order </h2>
+<audio src="40624.mid" controls></audio>
+<audio controls autoplay loop prelaod ="auto">
+<source src = "40624.ogg"/>
+<source src = "40624.mp3"/>Tweak your browser settings to support audio"
+</audio>
+
+<h2> View our shop on camera</h2>
+<video preload="40621.mp3" poster="C:\Users\v2philk\OneDrive\Documents\Drift2win_Git\madLibsAPP\media_40622.jpg"</video>
+<video src="40621.mid" controls></video>
+<video controls autoplay loop muted>
+<source src = "40625.wpm"/>
+<source src = "40625.mp4"/>
+Tweak your browser settings to support video"
+</video>
+<video width="300" height="150">
+</video>
+</body>
+</html>
+<script>
+</script>
+<br>
+<h> Commiting on git repostory </h>
+</br>
+</head>
