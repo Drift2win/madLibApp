@@ -2,6 +2,9 @@
 <head> <title>Affordable Flowers Online | Free Shipping Anywhere Anytime |Floristmart Webshop</title>
 <hr> FloristMart | Order | Delivery </hr>
 <body>
+<br>
+<a href="#"><img id="logo" src="C:\Users\v2philk\OneDrive\Documents\Drift2win_Git\madLibsAPP\LogoMakr-9H0DD7.png"></a>
+</br>
 <script>
 <meta data-react-helmet="true" name="description" content="FloristMart offers Flowers and Flower combos at affordable with our partners.
 Choose amazing flowers for your loved ones from the largest collection of Flowers to celebrate their special days.
