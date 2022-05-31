@@ -2,12 +2,11 @@
 <!DOCTYPE html> 
 <html lang="en" Style "--navigation-height:0px">
 <body>
-<div>
-<h> Online BitAcademy Practice </h>
-</div>
+<br>
+<a href="#"><img id="logo" src="C:\Users\v2philk\OneDrive\Documents\Drift2win_Git\madLibsAPP\FlorisSmartLogo.png";></a>
 <div>
 <p> 
-<br>
+</br>
 <h> ONLINE FLORIST SHOP PROCESS ORDER</h>
 <br>
 </p>
