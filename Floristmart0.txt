@@ -7,6 +7,11 @@
     <meta name="description" content="Online Flowers Delivery - FloristMart.in offers fresh flowers and flowers bouquet online with FREE Flower Delivery in Anywhere. Order &amp; Send flowers online to anywhere anyone with the same day &amp; Samenight delivery.">
     <meta name="keywords" content="send flowers, bouquet of flowers,send flowers to india from Anywhere, Upload Flowers, FloristMart India, online flower delivery and upload, send flowers to anyone, buy flowers online, online florist, fresh flowers, beautiful flowers, wild flowers, send flowers online, online flower delivery in city, order flowers,upload flowers,same day flower delivery,nighttime flower delivery service, valentine's day flower delivery">
 <body>
+<style>
+body {
+  background-color: MediumAquaMarine;
+}
+</style>
     <link rel="canonical" href="https://www.floristmart.in">  
     <!---->
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="">
@@ -22,8 +27,8 @@
     <link rel="preload" href="https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD_vx3rCs.woff2" as="font" type="font/woff2" crossorigin="">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="https://res.cloudservices.com/floristmart/raw/upload/assets/images/favicon_830.ico">
-    <link rel="shortcut icon" href="https://res.cloudservices.com/Floristmart/raw/upload/assets/images/favicon_830.ico"> 
+    <link rel="icon" href="https://res.cloudservices.com/floristmart/raw/upload/assets/images/LogoMakr-9H0DD7.ico">
+    <link rel="shortcut icon" href="https://res.cloudservices.com/Floristmart/raw/upload/assets/FlorisSmartLogo.ico"> 
     <meta name="google-site-verification" content="vViKmhq9UglzOdFWTD_aB3bwAcrnf291dJkFxucYzGo">    
 
     <!-- Facebook META -->
