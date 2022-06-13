@@ -2,7 +2,7 @@
 <head><title>Affordable Flowers Online | Free Shipping Anywhere Anytime |Floristmart Webshop</title>
 <html>
 <a href="#"><img id="logo" src="C:\Users\v2philk\OneDrive\Documents\Drift2win_Git\madLibsAPP\LogoMakr-9H0DD7.png" ALT="align box" ALIGN=RIGHT></a>
-<h1 style="color: teal;"> FloristMart | Order | Delivery</h1>
+<h1 style="color: Orange;"> FloristMart | Order | Delivery</h1>
 <body>
 <iframe src="C:\Users\v2philk\OneDrive\Documents\Drift2win_Git\madLibsAPP/FlorisSmartLogo.png" width="50%" height="20%" style="border:none;">
 </iframe>
@@ -11,7 +11,7 @@ body {
   background-color: maroon;
 }
 </style>
-<p>Click the form to take an order:</p>
+<p style="color: Orange;">Fill in the form and click on SUBMIT to take an order:</p>
 <script>
 <meta data-react-helmet="true" name="description" content="FloristMart offers Flowers and Flower combos at affordable with our partners.Choose amazing flowers for your loved ones from the largest collection of Flowers to celebrate their special days.We deliver round the clock,round the year,round the globe">
 </script>
@@ -30,33 +30,26 @@ body {
 <script src="//Microsoft WinJS.1.0./js/ui.js">    </script>
 <script href="https://www.floristmart.com/flowers"> </script>
 <section style=Margin-left:75px; margin-top:15px;"> 
-<h2 style="color:olive;">Fill-in to process your order for delivery</h2>
-           <form action="/action_page.js">
-  <label for="fname">First name of the Customer:</label><br>
-  <input type="text" id="fname" name="fname" value="Philemon"><br><br>
-  <label for="lname">Last name of the Customer:</label><br>
-  <input type="text" id="lname" name="lname" value="Kuruvilla"><br><br>
-  <label for="Emailid">Emailid of the Customer:</label><br>
-  <input type="="email" required placeholder= "you@domain.com"/><br><br>
-  <label for="fname">Name of the Flower Chosen:</label><br>
-  <input type="text" id="fname" name="fname" value=" "><br><br>
-  <label for="lname">Product id of the Flower:</label><br>
-  <input type="text" id="lname" name="lname" value="  "><br><br>
-  <label for="fname">No. of Flowers Required:</label><br>
-  <input type="text" id="fname" name="fname" value="  "><br><br>
-  <label for="lname">Address for delivery:</label><br>
-  <input type="text" id="lname" name="lname" value="  "><br><br>
-  <label for="lname">Street Name:</label><br>
-  <input type="text" id="Street" name="Street" value="  "><br><br>
-  <label for="lname">Name of the City :</label><br>
-  <input type="text" id="City" name="City" value="  "><br><br>
-  <label for="lname">Zip/Pin Code :</label><br>
-  <input type="text" id="Zip Code" name="Zip Code" value="  "><br><br>
-  <label for="Phone no.">Phone no :</label><br>
-  <input type="text" id="Phone no" Pattern="\dd\dd\dd\dd-dd\dd\dd\dd\dd" value="  "><br><br>
-  <input type="submit" value="Submit">
+<h2 style="color:olive;">Fill-in the Contact and address to process your order for delivery</h2>
+ <form action="/action_page.js"> 
+ 
+  <p style="color:cyan;"> <label for="fname">First name of the Customer: </label> <input type="text" id="fname" name="fname" value="Philemon"></p> <br>
+  <p style="color:cyan;"> <label for="lname">Last name of the Customer:</label> <input type="text" id="lname" name="lname" value="Kuruvilla"></p>  <br>
+  <p style="color:cyan;"> <label for="Emailid">Emailid of the Customer:</label> <input type="="email" required placeholder= "you@domain.com"/></p> <br>
+  <p style="color:cyan;"> <label for="fname">Name of the Flower Chosen:</label> <input type="text" id="fname" name="fname" value=" "></p>          <br>
+  <p style="color:cyan;"> <label for="lname">Product id of the Flower:</label>  <input type="text" id="lname" name="lname" value="  "></p>         <br>
+  <p style="color:cyan;"> <label for="fname">No. of Flowers Required:</label>   <input type="text" id="fname" name="fname" value="  "></p>         <br>
+  <p style="color:cyan;"> <label for="lname">Address for Delivery:</label>   <input type="text" id="lname" name="lname" value="  "><br></p>        <br>
+  <p style="color:cyan;"> <label for="lname">Street/Locality Name:</label>      <input type="text" id="Street" name="Street" value="  "></p>       <br>
+  <p style="color:cyan;"> <label for="lname">Name of the City/Town:</label>   <input type="text" id="City" name="City" value="  "></p>             <br>
+  <p style="color:cyan;"> <label for="lname">Area Zip/Pin Code :</label>   <input type="text" id="Zip Code" name="Zip Code" value="  "></p>             <br>
+  <p style="color:cyan;"> <label for="Phone no.">Cell Phone no :</label>   <input type="text" id="Phone no" Pattern="\dd\dd\dd\dd-dd\dd\dd\dd\dd" value="  "></p> <br><br>
+
+  <input type="submit" value="SUBMIT">
+
 </form> 
-<p style="color:teal;"> Click the "Submit" button, the form-data will be sent to a page called "/order_page.js".</p>
+</iframe>
+<p style="color:Orange;"> Click the "Submit" button, the form-data will be sent to a page called "/order_page.js".</p>
 </section>
 <h2 style="color:olive;"> Listen to music while we process your order </h2>
 <audio src="40624.mid" controls></audio>
