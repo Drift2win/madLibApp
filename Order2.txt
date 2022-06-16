@@ -6,12 +6,79 @@
 <body>
 <iframe src="C:\Users\v2philk\OneDrive\Documents\Drift2win_Git\madLibsAPP/FlorisSmartLogo.png" width="50%" height="20%" style="border:none;">
 </iframe>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
+body {font-family: "Lato", sans-serif;}
+
+.sidebar {
+  height: 100%;
+  width: 250px;
+  float:right;
+  position: right;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+  overflow-x: hidden;
+  padding-top: 16px;
+}
+
+.sidebar a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+}
+
+.sidebar a:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+  <a href="#home"><i class="fa fa-fw fa-home"></i>Home to FloristMart</a><br></br>
+
+  <a href="#partners"><i class="fa fa-fw fa-envelope"></i> Partners</a><br></br>
+
+  <a href="#services"><i class="fa fa-fw fa-wrench"></i> Services</a><br></br>
+
+  <a href="#clients"><i class="fa fa-fw fa-user"></i> Clients</a><br></br>
+
+  <a href="#clients"><i class="fa fa-fw fa-user"></i> Products</a><br></br>
+
+  <a href="#submit a flower"><i class="fa fa-fw fa-wrench"></i> Submit a flower </a><br></br>
+
+  <a href="#contact"><i class="fa fa-fw fa-envelope"></i> Leave a feed back</a><br></br>
+
+  <a href="#partners"><i class="fa fa-fw fa-envelope"></i> Customer Support</a><br></br>
+
+  <a href="#contact"><i class="fa fa-fw fa-envelope"></i> Contact us</a><br></br>
+</div>
+
+<div class="main">
+  <h2> ONLINE FLORIST SHOP </h2>
+<style>
+
 body {
   background-color: maroon;
 }
 </style>
-<p style="color: Orange;">Fill in the form and click on SUBMIT to take an order:</p>
+<p style="color: Orange;">Fill in the form and click on SUBMIT to raise an order request:</p>
 <script>
 <meta data-react-helmet="true" name="description" content="FloristMart offers Flowers and Flower combos at affordable with our partners.Choose amazing flowers for your loved ones from the largest collection of Flowers to celebrate their special days.We deliver round the clock,round the year,round the globe">
 </script>
@@ -46,11 +113,11 @@ body {
   <p style="color:cyan;"> <label for="Phone no.">Cell Phone no :</label>   <input type="text" id="Phone no" Pattern="\dd\dd\dd\dd-dd\dd\dd\dd\dd" value="  "></p> <br><br>
 
   <input type="submit" value="SUBMIT">
-
 </form> 
 </iframe>
 <p style="color:Orange;"> Click the "Submit" button, the form-data will be sent to a page called "/order_page.js".</p>
 </section>
+</div>
 <h2 style="color:olive;"> Listen to music while we process your order </h2>
 <audio src="40624.mid" controls></audio>
 <audio controls autoplay loop prelaod ="auto">
