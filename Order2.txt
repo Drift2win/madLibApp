@@ -1,12 +1,12 @@
-#madLibsApp 2nd of 4 website pages to Order a Flower,Online Florist Shop Name: Floristmart #
+<!DOCTYPE html> 
+<html lang="en" Style "--navigation-height:0px">
 <head><title>Affordable Flowers Online | Free Shipping Anywhere Anytime |Floristmart Webshop</title>
 <html>
 <a href="#"><img id="logo" src="C:\Users\v2philk\OneDrive\Documents\Drift2win_Git\madLibsAPP\LogoMakr-9H0DD7.png" ALT="align box" ALIGN=RIGHT></a>
-<h1 style="color: Orange;"> FloristMart | Order | Delivery</h1>
+<h1 style="color: Olive;"> FloristMart | Order | Delivery</h1><br>
 <body>
 <iframe src="C:\Users\v2philk\OneDrive\Documents\Drift2win_Git\madLibsAPP/FlorisSmartLogo.png" width="50%" height="20%" style="border:none;">
 </iframe>
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -15,7 +15,7 @@ body {font-family: "Lato", sans-serif;}
 .sidebar {
   height: 100%;
   width: 250px;
-  float:right;
+  float: right;
   position: right;
   z-index: 1;
   top: 0;
@@ -78,7 +78,7 @@ body {
   background-color: maroon;
 }
 </style>
-<p style="color: Orange;">Fill in the form and click on SUBMIT to raise an order request:</p>
+<p style="color: Orange;"> </p>
 <script>
 <meta data-react-helmet="true" name="description" content="FloristMart offers Flowers and Flower combos at affordable with our partners.Choose amazing flowers for your loved ones from the largest collection of Flowers to celebrate their special days.We deliver round the clock,round the year,round the globe">
 </script>
@@ -90,27 +90,26 @@ body {
 <link rel="manifest" href="https://imgIntercore.floristmart.com/ssr-build/manifest.json">
 <style data-href="/static/css/59.8287ba58.chunk.css">.slide-pane n,.header_right_r .side_option,.header_right_r a{margin-right:5px,}
 </style>
-<--link rel="preconnect" href="https://assetsIntercore.floristmart.com>
+<link rel="preconnect"href="https://assetsIntercore.floristmart.com">
 <!winjs references -->
 <link href="//Microsoft WinJS.1.0./css/ui-dark.css" rel="stylesheet"/>
 <script src="//Microsoft WinJS.1.0./js/base.js">    </script>
 <script src="//Microsoft WinJS.1.0./js/ui.js">    </script>
 <script href="https://www.floristmart.com/flowers"> </script>
-<section style=Margin-left:75px; margin-top:15px;"> 
+<section style=Margin-left:100px; margin-top:15px;"> 
 <h2 style="color:olive;">Fill-in the Contact and address to process your order for delivery</h2>
- <form action="/action_page.js"> 
- 
-  <p style="color:cyan;"> <label for="fname">First name of the Customer: </label> <input type="text" id="fname" name="fname" value="Philemon"></p> <br>
-  <p style="color:cyan;"> <label for="lname">Last name of the Customer:</label> <input type="text" id="lname" name="lname" value="Kuruvilla"></p>  <br>
-  <p style="color:cyan;"> <label for="Emailid">Emailid of the Customer:</label> <input type="="email" required placeholder= "you@domain.com"/></p> <br>
-  <p style="color:cyan;"> <label for="fname">Name of the Flower Chosen:</label> <input type="text" id="fname" name="fname" value=" "></p>          <br>
-  <p style="color:cyan;"> <label for="lname">Product id of the Flower:</label>  <input type="text" id="lname" name="lname" value="  "></p>         <br>
-  <p style="color:cyan;"> <label for="fname">No. of Flowers Required:</label>   <input type="text" id="fname" name="fname" value="  "></p>         <br>
-  <p style="color:cyan;"> <label for="lname">Address for Delivery:</label>   <input type="text" id="lname" name="lname" value="  "><br></p>        <br>
-  <p style="color:cyan;"> <label for="lname">Street/Locality Name:</label>      <input type="text" id="Street" name="Street" value="  "></p>       <br>
-  <p style="color:cyan;"> <label for="lname">Name of the City/Town:</label>   <input type="text" id="City" name="City" value="  "></p>             <br>
-  <p style="color:cyan;"> <label for="lname">Area Zip/Pin Code :</label>   <input type="text" id="Zip Code" name="Zip Code" value="  "></p>             <br>
-  <p style="color:cyan;"> <label for="Phone no.">Cell Phone no :</label>   <input type="text" id="Phone no" Pattern="\dd\dd\dd\dd-dd\dd\dd\dd\dd" value="  "></p> <br><br>
+ <form action="/action_page.js">  
+  <p style="color:cyan;"> <label for="fname">First name of the Customer:</label> <input type="text" id="fname" name="fname" value="Philemon" size="20"> </p> <br>
+  <p style="color:cyan;"> <label for="lname">Last name of the Customer :</label> <input type="text" id="lname" name="lname" value="Kuruvilla"size="20"></p>  <br>
+  <p style="color:cyan;"> <label for="Emailid">Emailid of the Customer :</label> <input type="="email" required placeholder="youremailid@domain.com"size="23"></p><br>
+  <p style="color:cyan;"> <label for="fname">Name of the Flower Chosen :</label> <input type="text" id="fname" name="fname" value=" "size="19"></p>     <br>
+  <p style="color:cyan;"> <label for="lname">Product id of the Flower  :</label>  <input type="text" id="lname" name="lname" value="  "size="24"></p>   <br>
+  <p style="color:cyan;"> <label for="fname">No. of Flowers Required:   </label>   <input type="text" id="fname" name="fname" value="  "size="24"></p>  <br>
+  <p style="color:cyan;"> <label for="lname">Address for Delivery:      </label>   <input type="text" id="lname" name="lname" value="  "size="28"><br></p><br>
+  <p style="color:cyan;"> <label for="lname">Street/Locality Name:      </label>   <input type="text" id="Street" name="Street" value="  "size="27"></p><br>
+  <p style="color:cyan;"> <label for="lname">Name of the City/Town:     </label>   <input type="text" id="City" name="City" value="  "size="25"></p><br>
+  <p style="color:cyan;"> <label for="lname">Area Zip/Pin Code :        </label>   <input type="text" id="Zip Code" name="Zip Code" value="  "size="29"></p><br>
+  <p style="color:cyan;"> <label for="Phone no.">Mobile Phone no :</label><input type="text" id="Phone no"Pattern="\dd\dd\dd\dd-dd\dd\dd\dd\dd" value=" "size="31"> </p><br><br>
 
   <input type="submit" value="SUBMIT">
 </form> 
